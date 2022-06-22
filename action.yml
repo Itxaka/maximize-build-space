@@ -61,6 +61,10 @@ runs:
         echo "Available storage:"
         df -h
         echo
+        
+        echo "test:"
+        df -h /tmp
+        echo
 
     - name: Maximize build disk space
       shell: bash
