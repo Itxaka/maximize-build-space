@@ -7,6 +7,7 @@ If not: please go on, there's nothing to see here.
 
 This action maximizes the available disk space on public shared GitHub runners, by
 
+
 - Utilizing space on an otherwise unused temp disk
 - Optionally removing unnecessary preinstalled software
 - Optionally resizing the SWAP space
